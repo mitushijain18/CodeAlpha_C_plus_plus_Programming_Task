@@ -1,33 +1,33 @@
-# CodeAlpha_C-_Programming_Task
-# C Programming Tasks
+# CodeAlpha_C++_Programming_Task
+# C++ Programming Tasks
 
 ## Project Overview
 
-This repository contains the projects and programming tasks completed as part of the CodeAlpha C Programming Internship. The projects focus on developing strong programming fundamentals, problem-solving skills, and implementing various applications using the C programming language.
+This repository contains the projects and programming tasks completed as part of the CodeAlpha C++ Programming Internship. The tasks focus on developing programming fundamentals, object-oriented programming concepts, and problem-solving skills using the C++ programming language.
 
-The main objective of these tasks is to understand core programming concepts, develop logical thinking, and create efficient C-based solutions for different problems.
+The main objective of this internship task is to understand C++ concepts and apply them to develop efficient and practical applications.
 
-## About C Programming
+## About C++ Programming
 
-C is a powerful procedural programming language widely used for system programming, embedded systems, application development, and learning fundamental programming concepts.
+C++ is a powerful general-purpose programming language that supports procedural, object-oriented, and generic programming approaches.
 
-C provides direct memory access, efficient execution, and strong control over system resources, making it an important language for software development.
+It is widely used in software development, game development, competitive programming, system applications, and high-performance computing due to its efficiency and flexibility.
 
-## Internship Objectives
+## Project Objectives
 
-The main objectives of this internship are:
+The main objectives of this project are:
 
-- Learn C programming fundamentals
-- Understand procedural programming concepts
-- Develop logical problem-solving skills
-- Implement algorithms using C
+- Learn C++ programming fundamentals
+- Understand Object-Oriented Programming concepts
+- Develop logical and problem-solving skills
+- Implement algorithms using C++
 - Create efficient console-based applications
 
 ## Technologies Used
 
-- C Programming Language
-- GCC Compiler
-- Code::Blocks / VS Code / Turbo C
+- C++ Programming Language
+- C++ Compiler (G++, GCC)
+- VS Code / Code::Blocks / Visual Studio
 - Git & GitHub
 
 ## Concepts Covered
@@ -40,60 +40,61 @@ The main objectives of this internship are:
 - Arrays
 - Strings
 - Pointers
-- Structures
+- Classes and Objects
+- Inheritance
+- Polymorphism
+- Encapsulation
 - File Handling
-- Basic Data Structures
+- Exception Handling
 
 ## Tasks Completed
 
-The C programming tasks include:
+The C++ programming tasks include:
 
-- Basic mathematical programs
-- Pattern printing programs
-- Array operations
-- String manipulation
-- Searching and sorting algorithms
-- Menu-driven applications
-- Logic-based problem-solving programs
+- Basic C++ programs
+- Mathematical and logical problems
+- Object-oriented applications
+- Data structure implementations
+- Menu-driven programs
+- Algorithm-based solutions
 
 ## Features
 
 - User input handling
 - Efficient program logic
-- Modular programming using functions
+- Object-oriented implementation
+- Modular programming
 - Error handling
 - Algorithm implementation
-- Console-based interaction
 
 ## Working Process
 
 The projects were developed using the following workflow:
 
 1. Understanding the problem statement
-2. Designing the algorithm and logic
-3. Writing C source code
-4. Compiling the program
-5. Testing different inputs
-6. Debugging errors
-7. Improving program efficiency
+2. Designing the algorithm and program logic
+3. Implementing the solution using C++
+4. Compiling and testing the program
+5. Debugging errors
+6. Improving performance and efficiency
 
 ## Project Structure
 
-C-Programming-Tasks
+CPlusPlus-Programming-Tasks
 
 - Source_Code
-  - main.c
+  - main.cpp
   - Programs
 
 - Output_Screenshots
 - Documentation
 - README.md
 
-## How to Run the Programs
+## How to Run the Project
 
-1. Install a C compiler such as GCC.
+1. Install a C++ compiler such as G++.
 
-2. Compile the C program:
+2. Compile the C++ program:
 
 ```bash
-gcc filename.c -o output
+g++ filename.cpp -o output
